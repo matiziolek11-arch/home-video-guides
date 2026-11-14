@@ -1,0 +1,42 @@
+{
+  "SITE_URL": "https://global-tech-reviews.github.io/deals-hub",
+  "ENABLE_AMAZON_BUTTON_ON_PAGES": true,
+  "AMAZON_ASSOCIATE_TAG": "ziolek-20",
+  "EBAY_CAMPID": "5339136480",
+  "ALIEXPRESS_ONE_LINK": "https://s.click.aliexpress.com/e/_c3XFkIk1",
+  "BONUS_PARTNER_LINKS": {
+    "pcloud_or_vpn_link": "https://partner.pcloud.com/r/158156",
+    "whop_ai_link": "https://whop.com/deal-soldier?a=matiziolek",
+    "travelpayouts_link": "https://klook.tpo.lu/4aMl8BIT",
+    "instant_gaming_link": "https://www.instant-gaming.com/?igr=gamer-a3e0a28",
+    "ledger_crypto_link": "https://www.tradingview.com/pricing/?share_your_love=matiziolek1993"
+  },
+  "YOUTUBE_CHANNELS": [
+    {
+      "id": "ch1",
+      "name": "Channel 1",
+      "url": "https://www.youtube.com/channel/UCdcte1tNyB_F6a4P9S1V7dw"
+    },
+    {
+      "id": "ch2",
+      "name": "Channel 2",
+      "url": "https://www.youtube.com/channel/UCJuQdlTl_DE_7E4TbgcXUtQ/"
+    },
+    {
+      "id": "ch3",
+      "name": "Channel 3",
+      "url": "https://www.youtube.com/channel/UCizMutB0xtYKPsXGUQDfy-Q/"
+    },
+    {
+      "id": "ch4",
+      "name": "Channel 4",
+      "url": "https://www.youtube.com/channel/UC8dMCVIMDD--MPY1Bwe_OKQ/"
+    }
+  ],
+  "COLORING_CHANNEL": {
+    "id": "UCZZ5ZKFQM2a3sFvHicG_jNQ",
+    "name": "The Zen Line",
+    "url": "https://www.youtube.com/channel/UCZZ5ZKFQM2a3sFvHicG_jNQ"
+  },
+  "GUMROAD_COLORING_BOOK_URL": "https://thezenline.gumroad.com/l/pskjvf"
+}
