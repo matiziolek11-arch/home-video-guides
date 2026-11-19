@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://matiziolek11-arch.github.io/home-video-guides/sitemap.xml
+Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap.xml
+Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap_2.xml
