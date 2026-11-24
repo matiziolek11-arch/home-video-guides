@@ -4,3 +4,4 @@ Sitemap: https://matiziolek11-arch.github.io/home-video-guides/sitemap.xml
 Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap.xml
 Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap_2.xml
 Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap_3.xml
+Sitemap: https://matiziolek11-arch.github.io/home-video-guides/video-sitemap_4.xml
