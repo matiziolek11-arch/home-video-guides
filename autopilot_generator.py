@@ -1193,6 +1193,12 @@ def build_site():
     <a class="btn" id="localEbayBtn" style="background:#3b82f6;" href="{default_ebay}" target="_blank" rel="nofollow sponsored noopener">🔍 Compare "{v['ebay_keyword']}" on Your Local eBay Store →</a>
     <a class="btn" style="background:#f97316;" href="{CONFIG['one_aliexpress_link']}" target="_blank" rel="nofollow sponsored noopener">🔥 View related AliExpress listings →</a>
     <a class="btn" style="background:#ef4444;" href="{v['yt_url']}" target="_blank" rel="noopener">▶ Watch on YouTube ({v.get('channel_name', 'KitchenGear')})</a>
+    <div style="background:#1e293b;border:2px solid #f59e0b;border-radius:12px;padding:16px;margin:16px 0;">
+      <div style="font-size:13px;color:#fbbf24;font-weight:900;">💰 MY $20/DAY MONEY PAGES — YOU MAY ALSO LIKE:</div>
+      <a href="../best/top-10-best-smart-kitchen-and-home-gadgets-2026.html" style="display:block;background:#10b981;color:#022c22;padding:12px;border-radius:8px;text-align:center;font-weight:800;margin-top:10px;text-decoration:none;">🏆 Top 10 Kitchen & Espresso Gadgets 2026 →</a>
+      <a href="../compare/pcloud-vs-standard-cloud-drives-feature-and-privacy-guide.html" style="display:block;background:#3b82f6;color:white;padding:12px;border-radius:8px;text-align:center;font-weight:800;margin-top:8px;text-decoration:none;">☁️ pCloud Lifetime vs Monthly Storage →</a>
+      <a href="../best/top-10-best-home-office-and-under-desk-fitness-gear-2026.html" style="display:block;background:#8b5cf6;color:white;padding:12px;border-radius:8px;text-align:center;font-weight:800;margin-top:8px;text-decoration:none;">💼 Best Home Office Gear 2026 →</a>
+    </div>
 
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin:14px 0;padding:12px;background:#0b1120;border:1px solid #334155;border-radius:10px;align-items:center;">
       <span style="font-size:12.5px;font-weight:700;color:#cbd5e1;">📢 Share or Save This Product Review:</span>
