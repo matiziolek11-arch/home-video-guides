@@ -1499,6 +1499,7 @@ const COUNTRIES = {countries_json};
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="OEZ1yHMJHa3Afl-ppdvuGMEYvrlnNJpAgwQpShdKLs8" />
 <meta name="p:domain_verify" content="d38735bb19d246673a3244b91e395848"/>
+<meta name="msvalidate.01" content="1799C83CDA0ADA73FA4593AE15F11315" />
 <title>Global Tech &amp; Home Reviews — Product Video Guides</title>
 <link rel="canonical" href="{CONFIG['site_domain']}/">
 <meta name="description" content="Browse product video overviews from four channels and open related retailer listings on Amazon, eBay, or AliExpress.">
