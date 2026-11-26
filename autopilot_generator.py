@@ -1482,6 +1482,9 @@ const COUNTRIES = {countries_json};
         pass
 
     # Generate robots.txt so Google, Bing, and Pinterest crawlers have explicit Sitemap discovery
+    # Bing fallback verification file (if meta fails, Bing can verify via XML file)
+    with open("site_output/BingSiteAuth.xml", "w", encoding="utf-8") as f:
+        f.write('<?xml version="1.0"?><users><user>1799C83CDA0ADA73FA4593AE15F11315</user></users>')
     with open("site_output/robots.txt", "w", encoding="utf-8") as f:
         sitemap_lines = [f"Sitemap: {CONFIG['site_domain']}/sitemap.xml"]
         sitemap_lines.extend(f"Sitemap: {CONFIG['site_domain']}/{name}" for name in video_sitemap_files)
